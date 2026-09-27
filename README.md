@@ -109,4 +109,44 @@ Bigger platforms like iHeartRadio have official licensing deals with major stati
 
 ---
 
+## 🎵 Browse by Genre
+
+| Genre | Link |
+|-------|------|
+| 🏈 Sports | [Listen Live](https://www.usradiolive.com/genre/sports) |
+| 📰 News | [Listen Live](https://www.usradiolive.com/genre/news) |
+| 🎙️ Talk | [Listen Live](https://www.usradiolive.com/genre/talk) |
+| 🤠 Country | [Listen Live](https://www.usradiolive.com/genre/country) |
+| 🎸 Rock | [Listen Live](https://www.usradiolive.com/genre/rock) |
+| 🎵 Pop | [Listen Live](https://www.usradiolive.com/genre/pop) |
+| 🎷 Jazz | [Listen Live](https://www.usradiolive.com/genre/jazz) |
+| 🎤 Hip-Hop | [Listen Live](https://www.usradiolive.com/genre/hip-hop) |
+| 🎵 Top 40 | [Listen Live](https://www.usradiolive.com/genre/top-40) |
+| 🎸 Classic Rock | [Listen Live](https://www.usradiolive.com/genre/classic-rock) |
+| 🕺 R&B | [Listen Live](https://www.usradiolive.com/genre/rnb) |
+| ✝️ Christian | [Listen Live](https://www.usradiolive.com/genre/christian) |
+| 🎵 Oldies | [Listen Live](https://www.usradiolive.com/genre/oldies) |
+| 🌎 Latin | [Listen Live](https://www.usradiolive.com/genre/latin) |
+| 🎵 Blues | [Listen Live](https://www.usradiolive.com/genre/blues) |
+| 🎵 Soul & Funk | [Listen Live](https://www.usradiolive.com/genre/soul-funk) |
+| 🎵 80s Hits | [Listen Live](https://www.usradiolive.com/genre/80s-hits) |
+| 🎵 90s Hits | [Listen Live](https://www.usradiolive.com/genre/90s-hits) |
+
+---
+
+## 📡 Start Listening Now
+
+[![Listen on USRadioLive](https://img.shields.io/badge/Listen%20Live-USRadioLive.com-blue)](https://www.usradiolive.com)
+[![Sports Radio](https://img.shields.io/badge/Sports%20Radio-Live%20Now-red)](https://www.usradiolive.com/genre/sports)
+[![News Radio](https://img.shields.io/badge/News%20Radio-Live%20Now-green)](https://www.usradiolive.com/genre/news)
+[![Country Radio](https://img.shields.io/badge/Country%20Radio-Live%20Now-orange)](https://www.usradiolive.com/genre/country)
+[![Hip Hop Radio](https://img.shields.io/badge/Hip%20Hop-Live%20Now-purple)](https://www.usradiolive.com/genre/hip-hop)
+[![Jazz Radio](https://img.shields.io/badge/Jazz%20Radio-Live%20Now-yellow)](https://www.usradiolive.com/genre/jazz)
+
+👉 **[USRadioLive.com — America's Free Online Radio Directory](https://www.usradiolive.com)**
+
+No signup. No subscription. Just click and listen.
+
+---
+
 *Last updated: September 2026 | Suggestions? Open an issue!*
