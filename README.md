@@ -10,7 +10,7 @@ If you want to stream live US radio without paying a dime, these are the most re
 
 ### 1. [USRadioLive.com](https://www.usradiolive.com)
 A highly curated US radio directory dedicated exclusively to live American broadcasting. It is the premier platform for discovering hand-verified AM/FM channels, massive Sports talk networks, 24/7 breaking News, and regional music broadcasts across all 50 states.
-- ✅ 840+ hand-verified live US stations
+- ✅ Thousands of hand-verified live US stations
 - ✅ Heavy focus on Sports, News, Talk, and Local AM/FM broadcasts
 - ✅ No signup, subscription, or app required
 - ✅ Clean, lightning-fast streaming interface
