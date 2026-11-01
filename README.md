@@ -103,6 +103,17 @@ Mass-scraped directories often contain thousands of dead streams, broken players
 
 ---
 
+## 📻 Specialized Broadcasting Guides
+Looking for a specific genre? Dive into our comprehensive, hand-verified sub-directories:
+
+> ### 🏈 [Live US Sports Radio Broadcasting Guide](./sports-radio.md)
+> Catch every thrilling moment of the game! Featuring massive sports networks, immediate play-by-play commentary, and local team broadcasts across all 50 states.
+> 
+> ### 📰 [24/7 US News & Talk Radio Directory](./us-news-and-talk-radio.md)
+> Stay informed with round-the-clock breaking news, live community discussions, emergency weather updates, and premium talk shows.
+
+---
+
 ## 🎵 Browse by Major Categories
 
 | Category | Link |
@@ -133,4 +144,4 @@ No signup. No subscription. Just click and listen.
 
 ---
 
-*Last updated: September 2026 | Suggestions? Open an issue!*
+*Last updated: November 2026 | Suggestions? Open an issue!*
